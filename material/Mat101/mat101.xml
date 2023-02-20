@@ -1,0 +1,15 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>MAT 101 Short Note</h2></center>
+    <h3>Real number system</h3>
+    <p>The real number system is a mathematical system that includes all possible numbers that can be represented on a number line. It includes all rational numbers (numbers that can be expressed as a fraction) and all irrational numbers (numbers that cannot be expressed as a fraction). The real number system is an important foundation for many areas of mathematics and is used in a variety of applications, such as in finance, physics, and engineering.</p><br/>
+    <p>The real number system is a mathematical system that represents all possible numerical values that can be expressed as an infinite set of numbers on a continuous line, known as the number line. It includes all positive and negative numbers, as well as zero. It also includes irrational numbers, which cannot be expressed as a finite decimal or fraction, such as pi and the square root of 2. The real number system allows for the representation and manipulation of any numerical value, making it a crucial foundation for mathematical concepts and applications.</p><br/>
+    <h3>Theory of quadratic equations</h3>
+
+    <p>The theory of quadratic equations is a branch of algebra that deals with equations of the form ax^2 + bx + c = 0, where x is the unknown variable and a, b, and c are constants. Quadratic equations can be solved using a variety of methods, including factoring, the quadratic formula, and completing the square.</p><br/>
+    <p>One important property of quadratic equations is that they always have two solutions, known as the roots of the equation. These roots can be real or complex numbers, depending on the value of the discriminant b^2 - 4ac. If the discriminant is positive, the roots are real numbers. If the discriminant is zero, the roots are equal and are both real. If the discriminant is negative, the roots are complex numbers.</p><br/>
+    <p>Another important property of quadratic equations is the concept of the vertex. The vertex of a quadratic equation is the point at which the graph of the equation reaches its highest or lowest point. The vertex of a quadratic equation can be found by completing the square or using the formula x = -b/(2a).</p><br/>
+    <p>Quadratic equations are used in a variety of applications, including physics, engineering, and economics. They are also used to model real-world situations, such as the motion of a projectile or the demand for a product.</p><br/>
+
+
+    </div>

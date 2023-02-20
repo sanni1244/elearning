@@ -1,0 +1,21 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 222 Short Note</h2></center>
+    <h3>Techniques of integration</h3>
+    <p>There are several techniques of integration that can be used to find the area under a curve or to evaluate definite integrals. Some of these techniques include:</p><br/>
+    <p>Substitution: This involves substituting a new variable for the original variable in the integral. This can often lead to an expression that is easier to integrate.</p><br/>
+    <p>Parts: This involves breaking up the integral into smaller pieces and integrating each piece separately.</p><br/>
+    <p>Trigonometric substitution: This involves using trigonometric identities to simplify the integral.</p><br/>
+    <p>Partial fractions: This involves decomposing a rational function into a sum of simpler fractions that are easier to integrate.</p><br/>
+    <p>Integration by parts: This involves using the product rule to turn a product of two functions into a sum of two integrals.</p><br/>
+    <p>Integration by substitution: This involves using a change of variables to rewrite the integral in a different form.</p><br/>
+    <p>Integration by partial fractions: This involves breaking up a rational function into a sum of simpler fractions that are easier to integrate.</p><br/>
+
+    <h3>Reduction formula</h3>
+    <p>A reduction formula is a mathematical equation that allows for the simplification or reduction of a complex mathematical expression or problem into a simpler, more manageable form. This technique is often used in calculus and other advanced mathematical fields to simplify and solve complex equations or problems. It involves expressing a given expression or problem in terms of a simpler, known expression or function, and then using algebraic manipulation to simplify the expression or problem to its final form. Reduction formulas are often used in conjunction with other mathematical techniques, such as integration by parts, substitution, and differentiation, to solve complex equations and problems.</p><br/>
+    <h3>Partial and total derivatives</h3>
+
+    <p>Partial derivatives are used to find the rate of change of a function with respect to one of its variables, holding the other variables constant. For example, if we have a function f(x,y), the partial derivative of f with respect to x is denoted by ∂f/∂x, and represents the rate of change of f with respect to x while holding y constant.</p><br/>
+    <p>Total derivatives, on the other hand, consider the rate of change of a function with respect to all of its variables. For example, the total derivative of f(x,y) is denoted by df/dx, and represents the rate of change of f with respect to both x and y.</p><br/>
+    <p>Both partial and total derivatives are important tools in calculus and are commonly used in fields such as physics, engineering, and economics. They allow us to understand how a function is changing as its inputs change, and can help us make predictions and solve problems involving complex systems.</p><br/>
+    </div>

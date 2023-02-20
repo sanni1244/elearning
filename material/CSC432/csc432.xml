@@ -1,0 +1,19 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 432 Short Note</h2></center>
+    <h3>The effects of scale on programming methodology</h3>
+    <p>Scale, or the size and complexity of a software project, can have significant effects on the programming methodology used to develop it. As a project grows in scale, the programming approach must adapt to accommodate the increasing complexity and demands placed upon it.</p><br/>
+    <p>One of the primary considerations when it comes to scale is the size of the development team. In smaller projects, a single programmer or a small team of developers may be sufficient to handle all aspects of the project. However, as the project grows in size, it may become necessary to bring in additional programmers to meet the demands of the project.</p><br/>
+    <p>This can lead to the need for more structured programming methodologies, such as agile development or the use of project management tools like JIRA. These approaches can help ensure that all team members are on the same page and working towards the same goals, even as the project grows in size and complexity.</p><br/>
+    <p>Another aspect of scale that can impact programming methodology is the complexity of the project. In smaller projects, it may be possible to use simple, linear approaches to development. However, as the project grows in complexity, more advanced programming methodologies may be required.</p><br/>
+    <p>For example, object-oriented programming can be useful in larger projects as it allows developers to create modular, reusable code that can be easily modified or expanded upon as needed. This can help reduce the overall complexity of the project and make it easier for developers to work on different parts of the codebase.</p><br/>
+    <p>Another factor to consider when it comes to scale is the impact on performance. As a project grows in size, it may become necessary to optimize the code to ensure that it runs efficiently and effectively. This can involve using techniques like caching, load balancing, and optimizing database queries to improve the speed and performance of the software.</p><br/>
+    <p>One way to address these performance issues is through the use of microservices, which allow developers to break down a large project into smaller, more manageable pieces that can be developed and deployed independently. This can help reduce the complexity of the project and make it easier to scale as the project grows.</p><br/>
+    <p>In addition to these technical considerations, the scale of a project can also have an impact on the overall development process. For example, larger projects may require more extensive testing and quality assurance to ensure that the software is reliable and meets the needs of the users.</p><br/>
+    <p>This can involve the use of automated testing tools and processes to ensure that the software is thoroughly tested before it is released to users. In addition, it may be necessary to bring in additional team members to handle tasks like user testing and quality assurance to ensure that the software is of the highest quality.</p><br/>
+    <p>In summary, the scale of a software project can have significant effects on the programming methodology used to develop it. As projects grow in size and complexity, it may be necessary to adopt more structured programming approaches, optimize code performance, and devote more resources to testing and quality assurance. By carefully considering these factors, developers can ensure that their projects are successful and meet the needs of their users.</p><br/>
+
+
+
+
+    </div>
