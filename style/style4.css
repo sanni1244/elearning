@@ -1,0 +1,124 @@
+body::before{
+    content: " ";
+    width: 1rem;
+    background: linear-gradient(white, hwb(216 16% 28% / 0.906), hwb(216 16% 28% / 0.906), white, hwb(216 16% 28% / 0.906), hwb(216 16% 28% / 0.906), white);
+    border-top-right-radius: 15rem;
+    border-bottom-right-radius: 12rem;
+}
+body::after{
+    content: "";
+    width: 1rem;
+    background: linear-gradient(white, hwb(216 16% 28% / 0.906), white, hwb(216 16% 28% / 0.906), white);
+    border-top-left-radius: 12rem;
+    border-bottom-left-radius: 12rem;
+}
+h5{
+    font-size: 2.5rem;
+    opacity: 70%;
+    margin-top: 2.3rem;
+}
+body{
+    display: flex;
+    background-color: hwb(216 16% 28% / 0.906);
+    height: 100vh;
+    width: 100vw;
+}
+/* test intro page  */
+.areanone{
+    position: relative;
+    background-color: white;
+    height: 75vh;
+    width: 76vw;
+    margin: auto;
+    border-radius: 20px;
+    padding: 1rem;
+    box-shadow: 0px 0px 10px 10px;
+}
+hr{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    background-color: hwb(216 16% 28% / 0.906);
+}
+.instructions{
+    width: 90%;
+    margin: auto;
+    /* margin-top: 2.2rem; */
+}
+.test_button{
+    /* padding: 0.5rem; */
+    background: linear-gradient(to right, white, white, hwb(216 16% 28% / 0.906), hwb(216 16% 28% / 0.906), white, white);
+    width: 50%;
+    border: none;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+}
+.test_button:hover{
+    background-color: red;
+    color: white;
+
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.area1{
+    position: relative;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    overflow: scroll;
+}
+form{
+    width: 95%;
+} 
+li{
+    list-style-type: lower-alpha;
+    padding: 0.5rem;
+}
+label{
+    margin-left: 1rem;
+}
+input[type='submit']{
+    background-color: hwb(216 16% 28% / 0.906);
+    color: white;
+    font-weight: 900;
+    position: absolute;
+    right: 0;
+    width: 8rem;
+    border: 4px solid black;
+    border-radius: 7px;
+    height: 2.8rem;
+}
+.h6_1{
+    font-size: 1.6rem;
+    opacity: 50%;
+} 
+input[type="radio"]{
+    width: 15px;
+    height: 15px;
+    accent-color: rgb(174, 24, 49);
+}
+table{
+    border-spacing: 12px;
+    margin-bottom: 2rem;
+}
+.button_mark{
+    color: black;
+    text-decoration: none;
+    display: inline-flex;
+    margin-top: 2rem;
+
+}
+.button_mark div{
+    border: 2px solid black;
+    padding: 0.4rem;
+    width: 10rem;
+    text-align: center;
+    background-color: white;
+    font-size: 1rem;
+}
+form{
+    height: 11rem;
+}
