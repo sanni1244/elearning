@@ -1,0 +1,25 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 215 Short Note</h2></center>
+    <h2>SOFTWARE PRACTICE</h2>
+    <p>Software practice refers to the various processes, techniques, and methodologies used in the development, maintenance, and improvement of software systems. It involves the application of principles and best practices to ensure the quality, reliability, and efficiency of software systems.</p>
+    <p>One key aspect of software practice is the use of software development frameworks and methodologies. These frameworks provide a structured approach to the development of software, helping to ensure that the process is consistent and predictable. Some popular software development methodologies include Agile, Scrum, and Waterfall.</p>
+    <p>Another important aspect of software practice is testing and quality assurance. This involves the use of various techniques to verify that the software is functioning as intended and meets the requirements set forth by the user or customer. This may include testing the software at various stages of the development process, as well as conducting user acceptance testing to ensure that the software meets the needs of the intended users.</p>
+    <p>Effective software practice also involves the use of version control systems to track changes to the software over time. This allows developers to easily revert to previous versions of the software if necessary, and helps to ensure that the software is continuously improving and evolving.</p>
+    <p>Finally, software practice involves the use of documentation to provide clear instructions and guidance for using and maintaining the software. This may include user manuals, technical guides, and other types of documentation that help users understand how to use the software effectively. Proper documentation is essential for ensuring that users can effectively utilize the software and that developers can quickly and easily identify and resolve any issues that may arise.</p>
+
+
+
+    <h1>Note 2</h1>
+<p>Visual Basic 2013 is an event driven programming language that allows users to write code to respond to specific events triggered by the user through controls on a form. These events can include load, click, double click, drag and drop, and pressing keys. Every form and control has a set of associated events that can be viewed by double-clicking the control and viewing the code window.</p>
+<p>Visual Basic 2013 also allows for mathematical calculations to be performed through the use of mathematical operators such as addition, subtraction, multiplication, and division. These operators are similar to normal arithmetic operators, but have slight variations.</p>
+<p>In addition, Visual Basic 2013 allows for string manipulation, which involves processing characters such as names, addresses, and text. String manipulation is commonly used in word processing and text editing. A string in Visual Basic 2013 is a single unit of data made up of a series of characters, and is treated as a non-numeric data type. Strings can be manipulated using the & and + signs, which are used for string concatenation and joining smaller strings into larger strings. However, if one of the variables is declared as a numeric data type, only the & sign can be used.</p>
+<h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>

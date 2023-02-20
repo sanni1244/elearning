@@ -1,0 +1,17 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 442 Short Note</h2></center>
+    <h3>How PHP works</h3>
+    <p>PHP, or Hypertext Preprocessor, is a popular scripting language that is used to create dynamic and interactive websites. It is primarily used on the server side to build web applications, but it can also be used to create command-line scripts or desktop applications.</p><br/>
+    <p>PHP works by reading and interpreting PHP code that is embedded in HTML pages. When a user requests a web page from a server, the server sends the HTML page to the user's browser. If the HTML page contains any PHP code, the server will execute the PHP code before sending the page to the user's browser.</p><br/>
+    <p>The PHP code is executed on the server side, which means that it is not visible to the user. This makes it a secure and efficient way to build web applications, as the user does not have access to the source code.</p><br/>
+    <p>PHP code is written in a syntax similar to other programming languages, such as C++ or Java. It can be used to perform a variety of tasks, such as storing and retrieving data from a database, processing form data, or generating dynamic content.</p><br/>
+    <p>One of the key features of PHP is its ability to interact with databases. PHP can be used to connect to a variety of databases, including MySQL, Oracle, and PostgreSQL. This allows developers to create powerful web applications that can store and retrieve data from a database.</p><br/>
+    <p>PHP also has a large number of built-in functions and libraries that can be used to perform various tasks. For example, the PHP Mail function can be used to send emails, the Date function can be used to display the current date and time, and the File function can be used to manipulate files on the server.</p><br/>
+    <p>PHP is a popular choice for web development due to its simplicity and flexibility. It is easy to learn and use, and there are many online resources available to help developers get started with PHP. Additionally, PHP is an open-source language, which means that it is freely available and can be modified or distributed by anyone.</p><br/>
+    <p>PHP is also a very fast language, as it is compiled and executed on the server side. This means that it does not have to wait for the user's browser to process the code, which makes it an efficient choice for building web applications.</p><br/>
+    <p>PHP is used by millions of websites around the world, including popular platforms such as WordPress, Facebook, and Wikipedia. It is an essential tool for web developers, and it continues to be a popular choice for building dynamic and interactive websites.</p><br/>
+    <p>Overall, PHP is a powerful and versatile scripting language that is used to build dynamic and interactive websites. It is easy to learn and use, and it has a large number of built-in functions and libraries that can be used to perform a variety of tasks. It is also fast and efficient, and it is used by millions of websites around the world.</p><br/>
+
+
+    </div>

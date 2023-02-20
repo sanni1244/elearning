@@ -1,0 +1,10 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 335 Short Note</h2></center>
+    <h3>FORMAL LANGUAGE AND AUTOMATA THEORY</h3>
+    <p>Formal language and automata theory are two closely related areas of computer science that deal with the study of formal languages and the computation of automata.</p><br/>
+    <p>A formal language is a set of strings that can be generated using a set of rules. These rules can be expressed using a mathematical notation called a grammar. Formal languages are used to represent the syntax of programming languages, the structure of documents, and other forms of structured data.</p><br/>
+    <p>Automata theory, on the other hand, deals with the study of automata, which are abstract machines that can be used to recognize, generate, or manipulate formal languages. Automata can be classified into different types based on their capabilities, such as deterministic automata, non-deterministic automata, and probabilistic automata.</p><br/>
+    <p>The theory of formal languages and automata has many applications in computer science, including compiler design, parsing, and natural language processing. It is also a fundamental concept in the study of theoretical computer science and has implications for the study of computational complexity and computational complexity theory.</p><br/>
+    <p>Overall, formal language and automata theory provide a foundation for understanding the principles of computation and the design of efficient algorithms and systems for processing and manipulating structured data.</p><br/>
+    </div>

@@ -1,0 +1,14 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 411 Short Note</h2></center>
+    <h3>The organization of programming languages can be divided into several categories</h3>
+    <p>1. Level of abstraction: This refers to the distance between the programming language and the underlying hardware. Low-level languages, such as assembly, are closer to the hardware and provide more control over the hardware, but are also more difficult to use and less portable. High-level languages, such as Python or Java, are further from the hardware and provide more abstractions, making them easier to use and more portable, but also less efficient.</p><br/>
+    <p>2. Syntax: This refers to the structure and rules of the programming language, including the use of keywords, variables, and control structures. Different programming languages have their own unique syntax, which can make it difficult for programmers to switch between languages.</p><br/>
+    <p>3. Paradigm: This refers to the programming style or approach used in the language. Some common programming paradigms include imperative, functional, object-oriented, and logical. Each paradigm has its own set of features and characteristics, and programmers may prefer one paradigm over another depending on the task at hand.</p><br/>
+    <p>4. Platform: This refers to the operating system or hardware platform that the programming language is designed to run on. Some programming languages, such as C and C++, are portable and can be used on a wide range of platforms, while others, such as Swift, are designed specifically for a particular platform, such as iOS.</p><br/>
+    <p>5. Domain: This refers to the specific field or application that the programming language is used for. Some programming languages, such as R or SAS, are specifically designed for statistical analysis and data science, while others, such as C# or Java, are used for a wide range of applications.</p><br/>
+    <p>6. Age: This refers to the age of the programming language. Older programming languages, such as COBOL or Fortran, have been around for decades and are still used in some applications, while newer languages, such as Kotlin or Swift, are more recent and may have fewer features and libraries.</p><br/>
+    <p>7. Popularity: This refers to the popularity of the programming language among developers. Some programming languages, such as Python or Java, are widely used and have large communities of developers, while others, such as COBOL or Prolog, are less popular and may have fewer resources and support.</p><br/>
+
+
+    </div>

@@ -1,0 +1,15 @@
+Interactive Design
+
+Most of our everyday products are interactive products.
+Our cell phones, smart Tv, alarm clock, watch, radio, gaming console, laptop, fitness tracker. etc.
+
+Most of these devices are easy to use
+But some other devices aren’t so easy to use. Why?
+
+This is because some devices are designed primarily with the user in mind. They are easy to use and enjoy.
+
+Some other devices weren’t made with the users in mind, example is a stove that requires a combination of button presses that are not obvious as to which ones to press together or separately.
+These devices will need to be learned to be used.
+Some devices can be frustrating to use.
+
+Alan Cooper (in 2018), a well known UX guru says that software still suffers from the same interaction errors that were around 20 years ago even though interaction design has been inexistence for more than 25 years. He believes that the reason for this is because many 

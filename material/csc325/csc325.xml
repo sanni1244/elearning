@@ -1,0 +1,13 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 325 Short Note</h2></center>
+    <h3>File System</h3>
+    <p>A file system is a system that organizes and stores files on a computer or other electronic device. It provides a way to name, store, and organize files, as well as control access to them. File systems can be either local, meaning they are stored on the device itself, or networked, meaning they are stored on a separate device or server and accessed over a network connection.</p><br/>
+    <p>There are many different types of file systems, including the Hierarchical File System (HFS), the File Allocation Table (FAT), the New Technology File System (NTFS), and the Extensible File System (EXT). Each of these file systems has its own set of features and limitations, and they are typically used in different operating systems or devices.</p><br/>
+    <p>One of the main features of a file system is the ability to create and organize files into directories, also known as folders. This allows users to keep their files organized and easily accessible. A directory can contain both files and other directories, which can be nested to any depth. This allows for a hierarchical structure, where files and directories are arranged in a tree-like structure.</p><br/>
+    <p>File systems also include mechanisms for controlling access to files. This can include setting permissions for different users or groups, determining who can read, write, or execute a particular file, and specifying which actions are allowed on a file, such as deleting or renaming it.</p><br/>
+    <p>In addition to storing and organizing files, a file system also manages the storage space on a device. It keeps track of which areas of the storage media are being used and which are available, and it allocates new files to unused areas as needed. This helps ensure that the device's storage capacity is used efficiently and that there is always enough space available for new files.</p><br/>
+    <p>File systems are an important part of any computer system, as they provide a way to store and access the data that makes up a computer's programs and files. Without a file system, a computer would be unable to store and retrieve files, making it essentially useless.</p><br/>
+
+
+    </div>

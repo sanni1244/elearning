@@ -1,0 +1,26 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 222 Short Note</h2></center>
+    <h3>ASSEMBLY PROGRAMMING LANGUAGE</h3>
+    <p>Assembly programming is a low-level programming language that is used to write code for computer systems at the microprocessor level. It is a symbolic representation of machine code that is specific to a particular microprocessor or computer architecture.</p> <br/>
+    <p>Assembly programming is often used for performance-critical code, as it allows for direct manipulation of the hardware and can be optimized for specific processors. It is also used for tasks that require access to specific hardware features or low-level system operations, such as device drivers and operating system kernels.</p><br/>
+    <p>Assembly language is composed of mnemonic codes that represent specific machine instructions, as well as directives and labels that are used to control the flow of the program. It is typically assembled into machine code using an assembler, which converts the mnemonic codes into the corresponding machine instructions.</p><br/>
+    <p>One of the key features of assembly programming is the ability to use symbolic labels and offsets, rather than absolute memory addresses. This allows for greater flexibility and makes it easier to write and modify code.</p><br/>
+    <p>Assembly programming is typically more difficult to learn and use than higher-level programming languages, as it requires a thorough understanding of computer architecture and the specific microprocessor being used. It is also more time-consuming to write and debug code in assembly language, as there is less abstraction between the code and the hardware.</p><br/>
+    <p>Despite these challenges, assembly programming can be an effective tool for certain types of projects. It can be used to optimize code for specific processors, to access hardware features that are not available in higher-level languages, or to write low-level system code.</p><br/>
+    <p>Assembly programming has a long history, with the first assembly languages being developed in the 1950s. It has evolved over time, with newer processors supporting more complex instructions and features.</p><br/>
+    <p>There are many different assembly languages in use today, with each one being specific to a particular processor or architecture. This means that assembly code written for one processor may not be compatible with another processor, even if they are from the same manufacturer.</p><br/>
+    <p>Assembly programming is not as widely used as it once was, with most software being written in higher-level languages such as C or Java. However, it remains an important tool for certain types of projects and is still used by many experienced programmers.</p><br/>
+    <p>In conclusion, assembly programming is a low-level language that is used to write code for specific microprocessors and computer architectures. It allows for direct manipulation of the hardware and can be optimized for specific processors, but it requires a thorough understanding of computer architecture and can be difficult to learn and use. Despite these challenges, it is still an important tool for certain types of projects.</p><br/>
+
+
+
+    <h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+    </div>

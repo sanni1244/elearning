@@ -1,0 +1,18 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 218 Short Note</h2></center>
+    <h3>SEQUENTIAL PROGRAM</h3>
+    <p>A sequential program is a type of computer program that executes a series of instructions in a predetermined order. It follows a linear flow of execution, meaning that each instruction is executed one after the other in the order in which they appear in the program. This type of program is also known as a procedural program or a linear program.</p>
+    <p>One of the main benefits of using a sequential program is that it is easy to understand and follow. The instructions are written in a logical order and are executed in the same way. This makes it easier for programmers to debug and troubleshoot the program, as they can easily see where a problem may have occurred in the execution process.</p>
+    <p>Another benefit of sequential programs is their efficiency. Because each instruction is executed one after the other, the program does not have to spend time searching for the next instruction to execute. This makes the program run faster and more smoothly, which is especially important for larger programs or programs that will be used by a large number of users.</p>
+    <p>There are some limitations to using a sequential program, however. These programs are not well-suited for tasks that require parallel processing, where multiple instructions need to be executed at the same time. They are also not well-suited for tasks that require complex branching or decision making, as this would require the program to deviate from its linear flow of execution.</p>
+    <p>Despite these limitations, sequential programs are still widely used in many different types of applications. They are particularly common in programs that perform simple, repetitive tasks, such as data entry or file manipulation. They are also often used as the foundation for more complex programs, where they can provide a stable, predictable foundation upon which to build.</p>
+<h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>

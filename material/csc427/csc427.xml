@@ -1,0 +1,45 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 427 Short Note</h2></center>
+    <h3>CSC 427 Numerical Analysis</h3>
+    <p>Numerical Methods: Algorithms used to obtain numerical solutions of a mathematical problem. <br/> Analytical Methods: Using the exact formula to present solutions to a mathematical problem.</p><br/>
+    <p>Not all equations have an exact or fixed formulars, so algorithms can be developed to determine its solution. Numerical Methods can be used when…</p><br/>
+    <p>1. Analytical solutions are difficult to obtain or difficult to practice.</p><br/>
+    <p>2. Analytical solutions do not exist for that problem.</p><br/>
+	<h3>Basic Needs in numerical analysis</h3>
+
+    <p>1. Practical: Can easily be computed in a reasonable amount of time.</p><br/>
+    <p>2. Accurate: Should be close(approximate) to it’s true value.</p><br/>
+    <p>3. Information about the approximate error. (Should be able to determine the margin of error or deviation from its true value).
+	</p><br/>
+    <p>Some simple Non-linear equation can be solved using the quadratic formula (Almighty formula)</p><br/>
+    <p>x=(-b±?(b^2-4ac))/2a</p><br/>
+    <p>Ex of simple non-linear equation is x2 + 4x + 3 = 0</p><br/>
+    <p>Some have no analytical solutions. Ex.</p><br/>
+    <p>There is no exact formula that can be used to solve such equation, numerical methods must be used in this situation.</p><br/>
+    <p>There are three methods for solving such Non-linear equations</p><br/>
+    <p>1. Bisection Method</p><br/>
+    <p>2. Newton-Raphson Method</p><br/>
+    <p>3. Secant Method</p><br/>
+    <p>We can also see that although it is much easier to solve linear equations with analytical 	solutions, problem arise when we have more than two unknown variables and when we 	have a thousand unknown variables, it becomes a challenge.</p><br/>
+    <p>Just from reasoning, Cramer’s rule will obviously not be able to support large problems. There are three methods for solving Linear equations.</p><br/>
+    <p>1. Naïve Guassian Elimination.</p><br/>
+    <p>2. Guassian Elimination with Scaled Partial Pivoting.</p><br/>
+    <p>3. Algorithm for Tri-diagonal equations.</p><br/>
+    <p>Curve Fitting: It means constructing a curve that best fits the data points.</p><br/>
+    <p>Data on the left, the line/curve on the right</p><br/>
+    <p>Curve fitting also means showing the relationship between two variables (in this case x and y) constructing a curve that fits the data.</p><br/>
+    <p>Interpolation: *Using known values to determine unknown ones that fall between*
+	Process of estimating unknown values that fall between known values.
+</p><br/>
+    <p>Method of Curve Fitting
+	</p><br/>
+    <p>1. Least Square Method</p><br/>
+    <p>2.  Interpolation</p><br/>
+	<h3>Number Representation</h3>
+    <p>Real Numbers: Any number that can be plotted on the number line. All numbers are real numbers</p><br/>
+    
+
+
+    </div>
+	<h2></h2>	

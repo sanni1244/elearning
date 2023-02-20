@@ -1,0 +1,14 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 323 Short Note</h2></center>
+    <h3>Evolutionary computation</h3>
+    <p>Evolutionary computation is a subset of artificial intelligence that involves the use of algorithms inspired by biological evolution to solve problems. It is a method of optimization that involves simulating the process of natural selection in order to find the best solution to a given problem.</p><br/>
+    <p>One common method of evolutionary computation is genetic algorithms, which involve a population of candidate solutions that evolve over time through the application of genetic operators such as crossover (recombination) and mutation. The fittest individuals in the population are selected to survive and reproduce, with the goal of improving the overall quality of the population over time.</p><br/>
+    <p>Another popular method is evolutionary programming, which involves the evolution of computer programs through the application of genetic operators. In this case, the programs themselves are the individuals in the population, and they evolve through the application of mutation and crossover.</p><br/>
+    <p>Other methods of evolutionary computation include evolution strategies, evolutionary programming, and genetic programming.One advantage of evolutionary computation is that it can find solutions to complex problems that are difficult or impossible to solve using traditional optimization methods. It is also a robust method, as it is able to find good solutions even when the problem is not fully understood or when the problem changes over time.</p><br/>
+    <p>However, evolutionary computation can be computationally intensive, and it can be difficult to determine the appropriate parameters for the evolutionary process. It is also subject to the "no free lunch" theorem, which states that no optimization algorithm can consistently outperform all others on all possible problems.</p><br/>
+    <p>Overall, evolutionary computation is a useful tool for optimization and problem-solving in a variety of fields, including engineering, finance, and biology. It is a powerful and flexible method that can find high-quality solutions to a wide range of problems.</p><br/>
+  
+
+
+    </div>

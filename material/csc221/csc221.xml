@@ -1,0 +1,25 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 221 Short Note</h2></center>
+    <h3>FUNDAMENTALS OF DATA STRUCTURES</h3>
+    <p>Data structures are a crucial part of computer science and programming, as they determine how data is stored and organized within a system.</p>
+    <p>The most basic data structure is the array, which is simply a list of items stored in a specific order. Arrays are useful for storing large amounts of data, but they are not very efficient for inserting or deleting items.</p>
+    <p>Another common data structure is the linked list, which consists of a series of nodes that are connected to each other by links. Linked lists are more flexible than arrays, as they allow for easy insertion and deletion of items.</p>
+    <p>Trees are another important data structure that are used to store and organize data in a hierarchical manner. Trees have a root node at the top, with branches extending downward to other nodes.</p>
+    <p>Hash tables are a type of data structure that are used to store and retrieve data quickly by using a hash function to convert the data into a unique key. This allows for fast lookup times and efficient data storage.</p>
+    <p>Graphs are a data structure that consist of a set of vertices (or nodes) connected by edges. Graphs are often used to represent relationships between data, such as connections between people on a social network.</p>
+    <p>Stacks and queues are two data structures that are based on the concept of a last-in, first-out (LIFO) or first-in, first-out (FIFO) structure. Stacks are used for tasks such as undo/redo functionality, while queues are used for tasks such as scheduling.</p>
+    <p>Heaps are a data structure that is used to store data in a specific order, such as a max heap where the largest value is always at the top. Heaps are often used in algorithms that require efficient sorting or searching.</p>
+    <p>Tries are a data structure that are used to store and retrieve data by dividing it into smaller chunks, similar to a tree structure. Tries are often used in applications such as spelling checkers or autocomplete functionality.</p>
+    <p>There are also data structures known as sets and maps, which are used to store and retrieve data based on keys and values. Sets are collections of unique elements, while maps are collections of key-value pairs. Both sets and maps are useful for storing and organizing data in a variety of applications.</p>
+
+
+    <h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>

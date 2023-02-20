@@ -1,0 +1,22 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 319 Short Note</h2></center>
+    <h3>Compilers</h3>
+    <p>A compiler is a computer program that translates computer code written in one programming language (the source language) into another programming language (the target language). The process of translation is called compilation.</p><br/>
+    <p>Compilers are an essential tool for software development, as they allow developers to write code in a high-level programming language that is easier for humans to read and understand, and then convert that code into machine code that can be run on a computer. This makes it possible for developers to write code that is more efficient, more reliable, and easier to maintain.</p><br/>
+    <p>There are many different types of compilers, including those that translate code from one programming language to another, as well as those that translate code from a high-level language to machine code. Some compilers are designed to work with a specific programming language, while others are more general and can handle a wide range of languages.</p><br/>
+    <p>The process of compilation begins when a developer writes code in a high-level programming language and saves it in a file with a specific file extension, such as .c for C code or .java for Java code. The compiler then reads the code from the file and begins the process of translation.</p><br/>
+    <p>During compilation, the compiler checks the code for syntax errors, which are mistakes in the way the code is written that can prevent it from being compiled. If the compiler finds any syntax errors, it will display an error message and the compilation process will stop. If the code is error-free, the compiler will continue to the next phase of the process.</p><br/>
+    <p>In the next phase, the compiler translates the source code into machine code, which is a series of instructions that can be understood and executed by the computer's processor. The machine code is typically written in binary, which consists of a series of 0s and 1s.</p><br/>
+    <p>Once the machine code has been generated, it is saved in a separate file, called an executable file. This file can then be run on the computer to execute the instructions contained in the source code.</p><br/>
+    <p>Compilers are an important part of the software development process, as they allow developers to write code in a high-level language and then translate it into machine code that can be run on a computer. By using compilers, developers can write code that is more efficient, more reliable, and easier to maintain, which helps to make software development faster and more effective.</p><br/>
+
+<h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+    </div>

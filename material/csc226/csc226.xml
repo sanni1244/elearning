@@ -1,0 +1,21 @@
+<div class="none">
+    <br/><br/><br/><br/>
+    <center><h2>CSC 226 Short Note</h2></center>
+    <h3>Object Oriented Programming (OOP)</h3>
+    <p>Object Oriented Programming (OOP) is a programming paradigm that focuses on the concept of objects and their interactions with one another. It is based on the idea that objects can contain both data and behavior, and that these objects can be used to model real-world concepts.</p><br/>
+    <p>One of the main advantages of OOP is its ability to model complex systems in a more organized and efficient way. By dividing a program into smaller, independent objects, it becomes easier to understand, maintain, and debug the code.</p><br/>
+    <p>Another benefit of OOP is its ability to support inheritance, which allows objects to inherit characteristics and behavior from their parent objects. This allows for the creation of a hierarchy of objects, where each object can be built upon the characteristics of its parent, leading to more efficient and reusable code.</p><br/>
+    <p>OOP also makes use of encapsulation, which is the concept of bundling data and behavior together within an object. This allows for greater control over the data and behavior within an object, as well as increased security and privacy.</p><br/>
+    <p>Overall, OOP provides a more organized and efficient way of programming, making it easier to understand and maintain complex systems. It is widely used in many programming languages, including Java, C++, and Python, and is an important concept for any aspiring programmer to understand.</p><br/>
+    <p>Another important aspect of OOP is polymorphism, which refers to the ability of an object to take on multiple forms. This can be achieved through inheritance, as a subclass can override or extend the characteristics and behavior of its parent class. Polymorphism allows objects to be used interchangeably, as they can all be treated as a member of a common base class.</p><br/>
+    <p>One of the main benefits of OOP is that it allows for code reuse, as objects can be created and used in multiple projects without having to rewrite the code. This can save time and effort for developers, as well as reduce the risk of errors in the code. OOP also promotes modularity, as objects can be developed and tested independently and then combined to create a larger program.</p><br/>
+<h3>Note 2</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+    </div>
