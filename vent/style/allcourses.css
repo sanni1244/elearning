@@ -1,0 +1,273 @@
+/* all courses section  */
+.top {
+    margin-bottom: 2rem;
+    margin-top: -2rem;
+    color: black;
+    font-size: 15rem;
+    text-align: center;
+    color: #0b5cd6e7;
+  }
+  main {
+    position: relative;
+  }
+  main .courselist {
+    display: grid;
+    margin-top: 0rem;
+    grid-template-columns: auto auto auto auto;
+    font-size: 1rem;
+    background-color: #0b5cd6e7;
+    font-family: "Courier New", Courier, monospace;
+  }
+  .courselist * {
+    color: black;
+    color: white;
+    text-align: center;
+    height: 35px;
+    align-items: center;
+    background-color: transparent;
+  }
+  main .courselist li {
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 600ms ease-in-out;
+    font-weight: 600;
+  }
+  main .courselist li:hover {
+    font-size: 20px;
+    background-color: white;
+    color: black;
+  }
+  .content {
+    border: 1px solid;
+    /* padding: 10px; */
+    background-color: rgb(247, 247, 247);
+  }
+  .section {
+    box-sizing: border-box;
+    height: 18rem;
+  }
+  main {
+    font-family: "Lora", serif;
+  }
+  .sect {
+    display: grid;
+    text-align: center;
+    margin-left: -1rem;
+    grid-template-columns: calc(81vw / 3) calc(81vw / 3) calc(81vw / 3);
+  }
+  .l .fixed {
+    font-size: 1.7rem;
+    position: absolute;
+    top: 8rem;
+    left: 1rem;
+  }
+  a.fixed:visited {
+    color: black;
+  }
+  .sect .section img {
+    width: 200px;
+    height: 10rem;
+    margin-top: 1rem;
+  }
+  .section div {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: 600;
+    /* padding-top: 0.7rem; */
+  }
+  .section div:first-of-type {
+    margin-top: 1.2rem;
+  }
+  .section div:last-of-type {
+    margin-top: 0.4rem;
+    margin-bottom: 1.2rem;
+  }
+  /* available courses sumbit  */
+  .allcourse {
+    display: flex;
+    justify-content: center;
+    color: black;
+  }
+  .allcourse button {
+    background-color: #0b5cd6e7;
+    padding: 0.4rem;
+    justify-content: center;
+    width: 15rem;
+  }
+  .availableButton {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+  }
+  .section a{
+    color: #0b5cd6e7;
+  }
+  .section a:hover{
+    color: red;
+  }
+  /* available courses sumbit  */
+  .cscsection {
+    /* display: flex; */
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .cntn1 label {
+    font-weight: 600;
+    opacity: 70%;
+    margin-bottom: 0.4rem;
+    font-size: 1.1rem;
+  }
+  /* edit details  */
+  .effe{
+    /* overflow: hidden; */
+  
+  }
+  .head7 {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: #0b5cd6e7;
+  }
+  .mlm {
+    height: 5vh;
+    margin-bottom: 1rem;
+    border-radius: 7px;
+    padding-left: 9px;
+    font-size: 1.1rem;
+  }
+  input.mlm:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #0b5cd6e7;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  }
+  .mvr1 {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    line-height: 5vh;
+    margin-right: 1rem;
+  }
+  .mvr2 {
+    display: flex;
+    flex-direction: column;
+    width: min(40vw, 30rem);
+    font-size: 1rem;
+    font-family: inherit;
+    margin-bottom: 1rem;
+  }
+  label.mlm {
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  .mvr3 {
+    margin-top: 1rem;
+    gap: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .updateit {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: end;
+  }
+  .same {
+    background-color: #0b5cd6e7;
+    border: #0b5cd6e7 0.1rem solid;
+    border-radius: 5px;
+    color: white;
+    width: max(10vw, 7rem);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    padding: 0.5rem;
+    font-weight: 600;
+  }
+  .redbttn {
+    background-color: red;
+    border: red 0.1rem solid;
+  }
+  .mvr3 {
+    display: flex;
+    justify-content: center;
+  }
+  .editmail {
+    background-color: black;
+    color: white;
+    opacity: 60%;
+    border: 2px solid black;
+    height: 5vh;
+    margin-bottom: 1rem;
+    border-radius: 7px;
+    padding-left: 9px;
+    font-size: 1.1rem;
+  }
+  /* csc.php  */
+  .cscsection2 {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 25vw 25vw;
+    grid-gap: 6rem;
+    justify-content: center;
+  }
+  .individual {
+    border-radius: 1rem;
+      box-shadow: #0b5cd6e7 0px 0px 0px 3px, white 0px 0px 0px 6px, white 0px 0px 0px 9px, white 0px 0px 0px 12px, #0b5cd6e7 0px 0px 0px 15px;
+    background-color: #ffffffe7;
+    padding: 1rem;
+  }
+  img {
+    width: 160px;
+    height: 130px;
+  }
+  .individual * {
+    margin-top: 1rem;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 15px;
+  }
+  .availableButton button{
+    margin-top: 1rem;
+    background-color: white;
+    color: #0b5cd6e7;
+  }
+  .row a{
+    color: #0b5cd6e7;
+  }
+  .row a:hover{
+    color: red;
+  }
+  .details a{
+    color: #0b5cd6e7;
+  }
+  .details a:hover{
+    color: red;
+  }
+
+  
+  @media (max-width: 800px) {
+    .container2 {
+      display: flex;
+    }
+    .sect {
+        display: flex;
+        flex-wrap: wrap;
+        flex: 5;
+        margin-left: 1.5rem;
+    
+    }
+    .sect .section img {
+        width: 180px;
+        height: 10rem;
+        margin-top: 1rem;
+      }
+      .cscsection2 {
+        grid-gap: 3rem;
+      }
+      .individual {
+          box-shadow: 0 0 0.5rem 0.2rem #0b5cd6e7;
+      }
+
+    }
+    

@@ -1,0 +1,354 @@
+/* general style */
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none; 
+}
+:root{
+    --gap: 0.4rem;
+    --gap1: 0.8rem;
+}
+h1{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 1rem 0rem;
+}
+a{
+    font-size: 15px;
+}
+body{
+    background-color: rgb(247,247,247);
+    
+    font-family: 'Josefin Sans', sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+/* New landing page  */
+.body1{
+    background-image: linear-gradient(160deg, rgb(247,247,247), rgb(247,247,247), rgb(247,247,247), rgb(247,247,247), #bdcde6e7);
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.brand{
+    display: flex;
+    color: #0b5cd6e7;
+}
+.navsaw{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+}
+.navsaw a{
+    text-decoration: none;
+    color: black;
+}
+.img1{
+    width: 30rem;
+}
+.acct{
+    margin-right: 3rem;
+    font-family: 'Bree Serif', serif;
+    gap: 200rem;   
+}
+.acct a{
+    border: rgb(24, 88, 172) solid 0.1rem;
+    padding: 10px;
+    color: rgb(24, 88, 172);
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+.header1{
+    font-size: 3.1rem;
+    padding: 0rem 0rem 0rem 0rem;
+    margin: 0rem;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.text1{
+    width: 30vw;
+   float: right;
+}
+b{
+    font-size: 1rem;
+}
+.h61{
+    margin-top: 10px;
+    margin-left: 4px;
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6rem;
+    opacity: 50%;
+    font-family: 'Inter', sans-serif;
+}
+@media (max-width: 900px) {
+    .img1{
+        width: 23rem;
+    }
+    .header1{
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 2rem;
+    }
+    .h61{
+    font-size: 15px; 
+}}
+.acct1{
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 2rem;
+    box-sizing: content-box;
+}
+.acct1 div{
+    width: 8rem;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+.acct1 a{
+    color: white;
+}
+.acct1 a:nth-child(2) div{
+    background-color: #0b5cd6e7;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 3px;
+}
+.acct1 a:nth-child(1) div{
+    border: black solid 0.1rem;
+    background-color: black;
+}
+/* signup page  */
+.topsign{
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 2rem;
+}
+label{
+    display: block;
+}
+.signup-section{
+    margin-top: 1rem;
+
+    display: flex;
+    justify-content: space-around;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cntn1 label{
+    font-weight: 600;
+    opacity: 70%;
+    margin-bottom: 0.4rem;
+    font-size: 1.1rem;
+}
+.vvv{
+    margin-bottom: 1.1rem;
+}
+.lbl1{
+    width: min(40vw, 30rem);
+    border-radius: 7px;
+    height: 4.3vh;
+    border: black solid 1px;
+    padding-left: 5px;
+    font-size: 1rem;
+    font-family: inherit;
+}
+.lbl2{
+    width: min(40vw, 30rem);
+    height: 0.3vh;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: red;
+}
+.lbl3{
+    width: 100%;
+}
+option[class|="dwwdllll"]:empty{
+    display: none;
+}
+.lbl1:hover, .lbl1:focus{
+    border: #5b88cae7 solid 2px;
+}
+.lbl1:not(:placeholder-shown){
+    border: 2px solid rgb(101, 5, 255);
+}
+input[type = "radio"]{
+    margin-left: 6px;
+}
+.studDiv{
+    width: min(40vw, 30rem);
+    margin-top: 3vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imp{
+    align-items: center;
+    margin-left: 1rem;
+}
+.mnb{
+    height: 6vh;
+    display: flex;
+    align-items: center;
+}
+#submit1{
+    background-color: black;
+    border: 2px solid black;
+    margin-top: 1.4rem;
+    font-weight: 700;
+    color: white;
+}
+
+.notyet *{
+    /* display: flex; */
+    /* flex-direction: column; */
+    text-align: center;
+    /* padding: 1rem; */
+    font-size: 0.92rem;
+    margin-top: 1.7rem;
+}
+.notyet a:hover{
+    color: red;
+}
+.notyet a{
+    color: #0b5cd6e7;
+
+}
+.sbody{
+    background-image: url('../images/19366.jpg');
+    backdrop-filter: blur(2px);  
+    background-size: cover;
+}
+.form{
+    margin-top: 3vh;
+}
+.cntn1 label{
+    font-family: 'Bree Serif', serif;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    font-weight: 500;
+    word-spacing: 0.3em;
+}
+/* log in section  */
+.lbody{
+    background-image: url('../images/19366.jpg');
+    background-size: cover;
+    backdrop-filter: blur(2px);  
+}
+.loginbody{
+    padding: 4rem 10rem 0rem 10rem;
+    box-sizing: border-box;
+    justify-content: center;
+    display: flex;
+    align-self: center;
+}
+.lg1{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    width: 65vw;
+    height: 70vh;
+}
+.both-side{
+    width: 50%;
+}
+.left-side{
+    background-image: url('../images/123.jpg');
+    background-size: cover;
+    height: inherit;
+}
+.right-side{
+    height: inherit;
+    padding: 4rem;
+    padding-top: 3.5rem;
+    background-color: #ffffff;
+    box-sizing: border-box;    
+}
+.myoptions{
+    display: flex;
+    justify-content: center;
+    border: black solid 3px;
+    width: 100%;
+    margin-bottom: 3vh;
+}
+.myoptions hr{
+    width: 3px;
+    background-color: black;
+}
+.myoptions a{
+    text-decoration: none;
+    padding: 3px;
+    width: 50%;
+    text-align: center;
+    list-style-type: none;
+    color: black;
+    font-size: max(1vw, 11px);
+    font-family: 'Bree Serif', serif;
+    font-weight: 600;
+}
+
+.lbl8{
+    width: min(17vw, 20rem);
+    padding: 4px;
+    border-radius: 7px;
+    background-color: #0b5cd6e7;
+}
+.red{
+    color: red;
+}
+@media (max-width: 950px) {
+    .loginbody{
+        padding: 0rem;
+
+    }
+    .lg1{
+        width: 100vw;
+        border: none;
+
+    }
+    .left-side{
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .right-side{
+        padding: 3rem;
+    }
+    .myoptions a{
+        padding: 0xp;
+    }
+}
+
+@media (max-width: 800px) {
+    
+.acct1{
+    margin-top: 1.5rem;
+    margin-left: -5rem;
+    gap: 1rem;
+}
+}
+.myoptions a:hover{
+    color: rgb(189, 164, 187);
+}
+.active {
+    background-color: #0b5cd6e7;
+    font-size: 20rem;
+}
+.button{
+    font-size: 1.2rem;
+}
+.hold{
+    background-color: white;
+}
+.repoDash a{
+    font-size: 1.3rem;
+}
