@@ -2,9 +2,10 @@
 
 https://sanni1244.github.io/elearning/
 
-Complete project files will be posted in future repo
 This is simply a frontend view.
 
+
+Complete project - https://github.com/sanni1244/Vent/tree/project1
 
 # OBJECTIVES OF THE SOFTWARE
 This software is an e-learning platform that was created to allow students gain easy access to materials. It is designed mainly for students of Lagos State University. It contains several materials and past questions to all the courses and it also contains quizzes for every course.
