@@ -19,7 +19,8 @@ This software is an e-learning platform that was created to allow students gain 
 # Installation and Setup Process
 <pre>
 <b>Step 1</b>: Download XAMPP or any open-source web server stack package. 
-	XAMPP comes with Apache HTTP which serves as an HTTP server, Interpreters for scripts written in PHP which was used in this project and MySQL module which will be used for the database creation.
+	XAMPP comes with Apache HTTP which serves as an HTTP server, Interpreters for scripts written in PHP which was used 
+	in this project and MySQL module which will be used for the database creation.
 	
 XAMPP download link - https://www.apachefriends.org/download.html
 	It comes with different versions along with PHP.
@@ -34,7 +35,8 @@ Minimum requirements
 		CentOS, Ubuntu, Fedora, Gentoo, Arch, SUSE
 		
 Available in x32 and x64 bits for Windows and x64 bits for Linux and MacOS.
-Download the version suitable for your system. The system used for the development of this project had Windows Server 2008 which met the requirements and was a x64 bit machine.
+Download the version suitable for your system. The system used for the development of this project had Windows Server 2008 
+which met the requirements and was a x64 bit machine.
 
 <b>Step 2: Setting Up XAMPP</b>
 Once you have downloaded the XAMPP setup file, run as administrator. 
@@ -49,10 +51,13 @@ If it doesn't change colour
 •	Use the help button to discover possible causes. 
 		
 You should also check to see that PHP was well installed
-Click on the shell button on the XAMPP control panel. Once the shell application opens up, type 'php -v' and tap the enter button. If the version of PHP installed appears, then installation was successful. If an error pops up, it means there was a problem with installation and it will have to be re-installed.
+Click on the shell button on the XAMPP control panel. Once the shell application opens up, type 'php -v' and tap the enter button. 
+If the version of PHP installed appears, then installation was successful. If an error pops up, it means there was a problem with installation 
+and it will have to be re-installed.
 
 <b>Step 3:  Creating the database</b>
-•	Open 'This PC' and go to C:/xampp/htdocs and paste the ‘elearning’ folder here. If you installed Xampp in a different path directory, it is advised to re-install in the default path as some features might not work.
+•	Open 'This PC' and go to C:/xampp/htdocs and paste the ‘elearning’ folder here. If you installed Xampp in a different path directory, 
+	it is advised to re-install in the default path as some features might not work.
 •	Click on the Admin button for MySQL on the XAMPP control panel, 
 •	This should open up a page on your browser.
 •	Click on Database.
@@ -61,7 +66,8 @@ Click on the shell button on the XAMPP control panel. Once the shell application
 <b>Step 4: Import the table</b>
 •	Click on the created database (learning).
 •	Click on Import. 
-•	Click choose file, locate the ‘learning.sql' file in the database folder and select it, leave everything as it is and click Go. Once this is all done, the new tables will be accessible in the database.
+•	Click choose file, locate the ‘learning.sql' file in the database folder and select it, leave everything as it is and click Go. 
+	Once this is all done, the new tables will be accessible in the database.
 
 <b>Step 5: Connecting to the database from your browser</b>
 
@@ -78,12 +84,14 @@ Password: admin
 Click the submit button. If the values were entered correctly, it redirects the page to the user’s dashboard.
 
 <b>Step 7: Registration</b>
-In the sign-up page, new users can register here. They will be required to input their first name, last name, email and password. There is also an option for students where students can input their matric number as well as their level, department and faculty.	
+In the sign-up page, new users can register here. They will be required to input their first name, last name, email and password. 
+There is also an option for students where students can input their matric number as well as their level, department and faculty.	
 
 
 
 <b>Step 8: After logging in</b>
-	Once the user logs in, several actions can be performed. They can enrol for a course, check the list of all available courses. They can also search for a course, download and read materials as well as edit their details and log out.
+	Once the user logs in, several actions can be performed. They can enrol for a course, check the list of all available courses. 
+	They can also search for a course, download and read materials as well as edit their details and log out.
 	
 <b>Step 9: Admin</b>
 	The admin is a special user account, they have the privilege of removing users, adding courses and materials, as well as removing them.
