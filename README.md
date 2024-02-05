@@ -5,7 +5,7 @@ https://sanni1244.github.io/elearning/
 Complete project files will be posted in future repo
 This is simply a frontend view.
 
-<pre>
+
 # OBJECTIVES OF THE SOFTWARE
 This software is an e-learning platform that was created to allow students gain easy access to materials. It is designed mainly for students of Lagos State University. It contains several materials and past questions to all the courses and it also contains quizzes for every course.
 
@@ -15,6 +15,7 @@ Minimum CPU speed: 1GHz
 Minimum System Memory: 2GB RAM
 
 # Installation and Setup Process
+<pre>
 <b>Step 1</b>: Download XAMPP or any open-source web server stack package. 
 	XAMPP comes with Apache HTTP which serves as an HTTP server, Interpreters for scripts written in PHP which was used in this project and MySQL module which will be used for the database creation.
 	
