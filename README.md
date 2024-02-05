@@ -10,9 +10,11 @@ This is simply a frontend view.
 This software is an e-learning platform that was created to allow students gain easy access to materials. It is designed mainly for students of Lagos State University. It contains several materials and past questions to all the courses and it also contains quizzes for every course.
 
 # SYSTEM REQUIREMENT
-Operating System: Windows, Mac or Linux operating system
-Minimum CPU speed: 1GHz
-Minimum System Memory: 2GB RAM
+<pre>
+	Operating System: Windows, Mac or Linux operating system
+	Minimum CPU speed: 1GHz
+	Minimum System Memory: 2GB RAM
+</pre>
 
 # Installation and Setup Process
 <pre>
